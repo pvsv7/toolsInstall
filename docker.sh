@@ -22,3 +22,4 @@ sudo usermod -aG docker centos
 docker --version
 
 echo "Docker installation completed successfully."
+echo "Please log out and log back in for the group changes to take effect."
